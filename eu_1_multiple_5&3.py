@@ -13,6 +13,7 @@ for iterate in range(1,1001):
     # print(f"{iterate} * {3} = {output}")
     # print(output)
     result.append(multiply_by_3)
+    # here multiple_by_5 condition finish before multiple_by_3
     if multiply_by_5 < limit:
         result.append(multiply_by_5)
 print(result)
