@@ -1,6 +1,6 @@
-import sys
-# salary = 1600000
-salary = int(sys.argv[1])
+# import sys
+salary = 1600000
+# salary = int(sys.argv[1])
 # salary = eval(input("Enter the salary: "))
 tax = 0
 default_slab = 300000

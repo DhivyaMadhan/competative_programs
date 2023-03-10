@@ -7,7 +7,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 """
 result = list()
 limit = 10
-for iterate in range(1,limit+1):
+for iterate in range(1, limit+1):
     multiply_by_3 = iterate * 3
     multiply_by_5 = iterate * 5
     if (multiply_by_3 >= limit) & (multiply_by_5 >= limit):

@@ -1,0 +1,3 @@
+Given input house length is 41 feet
+
+	 ---------- 	----------

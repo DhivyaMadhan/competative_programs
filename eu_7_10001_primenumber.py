@@ -8,7 +8,7 @@ What is the 10 001st prime number?
 import time
 start_time = time.time()
 count = 0
-position = 10001
+position = 100
 for each in range(2, position*100):
     # print(each)
     flag = True
@@ -27,4 +27,3 @@ end_time = time.time()
 print(end_time - start_time)
     # else:
     #     print(f"{each} is a not a prime number")
-
