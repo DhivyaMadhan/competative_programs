@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2056f750-7b8a-4b5e-ab1c-3f75e95debdc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Income_tax.py" beforeDir="false" afterPath="$PROJECT_DIR$/Income_tax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Veettu_manai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Veettu_manai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eu_1_multiple_5&amp;3.py" beforeDir="false" afterPath="$PROJECT_DIR$/eu_1_multiple_5&amp;3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eu_4-palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/eu_4-palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eu_6_Sum_square_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/eu_6_Sum_square_difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eu_7_10001_primenumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/eu_7_10001_primenumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Studies/Git/dummy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Studies/Coding&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
